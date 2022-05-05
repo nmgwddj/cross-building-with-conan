@@ -1,0 +1,12 @@
+include(default)
+
+[settings]
+arch=armv7
+compiler=apple-clang
+compiler.libcxx=libc++
+os=iOS
+os.version=9.3
+os.sdk=iphoneos
+
+[options]
+[env]
