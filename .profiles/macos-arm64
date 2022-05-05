@@ -1,0 +1,13 @@
+include(default)
+
+[settings]
+os=Macos
+os_build=Macos
+arch=armv8
+arch_build=armv8
+compiler=apple-clang
+compiler.libcxx=libc++
+
+[options]
+[conf]
+[env]
